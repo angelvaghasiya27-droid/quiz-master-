@@ -1,0 +1,6 @@
+{
+  "name": "QuizMaster – Online Assessment Portal",
+  "description": "A modern, responsive online examination platform featuring timed assessments, automatic evaluation, interactive question palette, student performance tracking, and an admin quiz management portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
